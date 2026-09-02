@@ -1,0 +1,246 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/)
+>> /Border [ 0 0 0 ] /Rect [ 145.8976 581.3465 289.0656 591.3465 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api)
+>> /Border [ 0 0 0 ] /Rect [ 145.8976 556.8465 299.7376 566.8465 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/products)
+>> /Border [ 0 0 0 ] /Rect [ 145.8976 521.8465 332.6416 531.8465 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/suppliers)
+>> /Border [ 0 0 0 ] /Rect [ 145.8976 497.3465 333.9696 507.3465 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/sessojunior/stock-control)
+>> /Border [ 0 0 0 ] /Rect [ 145.8976 472.8465 299.2896 482.8465 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/products)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 282.8882 308.9645 292.8882 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/products)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 261.9882 308.9645 271.9882 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/products/:id)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 241.0882 319.6365 251.0882 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/products/:id)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 220.1882 319.6365 230.1882 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/products/:id)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 199.2882 319.6365 209.2882 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/suppliers)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 178.3882 310.2925 188.3882 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/suppliers)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 157.4882 310.2925 167.4882 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/suppliers/:id)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 136.5882 320.9645 146.5882 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/suppliers/:id)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 115.6882 320.9645 125.6882 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/suppliers/:id)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 94.78819 320.9645 104.7882 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
+  14 0 R 15 0 R 16 0 R 17 0 R 18 0 R ] /Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/products/:productId/suppliers)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 750.2661 380.9965 760.2661 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/products/:productId/suppliers/:supplierId)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 718.8661 420.1245 728.8661 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/products/:productId/suppliers/:supplierId)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 687.4661 420.1245 697.4661 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stock-control-4des.onrender.com/api/suppliers/:supplierId/products)
+>> /Border [ 0 0 0 ] /Rect [ 122.2205 666.5661 382.3245 676.5661 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/Annots [ 20 0 R 21 0 R 22 0 R 23 0 R ] /Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+25 0 obj
+<<
+/PageMode /UseNone /Pages 27 0 R /Type /Catalog
+>>
+endobj
+26 0 obj
+<<
+/Author (Projeto Integrador) /CreationDate (D:20260902193910-03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260902193910-03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Links de entrega - Sistema de Controle de Estoque) /Trapped /False
+>>
+endobj
+27 0 obj
+<<
+/Count 2 /Kids [ 19 0 R 24 0 R ] /Type /Pages
+>>
+endobj
+28 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2605
+>>
+stream
+Gb!Sn9lo&K'#!U4oMI\-L5BgkHcfrj<49Gra&-`gcm%g1,8(DVAQ/Kl[i1K%aH:#eAm@4e_.B>AFQ5NWdG6L1";7BdpTaeof)e_);P4F62a@NYYW.EE`U)?<(o<JF5`?GB)Bb>]-7)p2Rh5i(SWt<LO\ACOJe:SVZ;?)4P%\9YVA4KID3S]X;2a8/+<o3&E$.Ic_ZUN"Cr2jZ`VuE^FO7i<Z-6)UMZW#W[K#Mq&+@]mh:?<&CH-l@H.0>KL!7@P?ad@L3W/cUC&PNKqZe[d_W!LR*)E1T6A:YJVGD.%1'JSUq/c7H[N21)`[38PU-rEm+CJV<'F88N:^2SmbG`"YTEGD_3.8u#$&!pK`'YB).)c<7YfL39DCm6JUOnp2%HT[+NWD<Eg"ArJ-=LsdZu^\fQ[^l+9=f4>j.T*2'O9>BmPY4Rl1]:bVcR-e.k\?h6#aSQ<0MuTKr2g0HK(3eI>;_s@QFDfYmM9J'[86B<<Y]>_H8#@6n"uSh#'(J\WY4[U8>)CQZ(DO#.E!bK)mjJ+:L)s$REu[E)[*S<%88D;5oM+/Z/1mbWgP9J,eIY/0/m,,:)[b+=uK;0d&TP<h]JB#[pLBqAj#Mk-(gc^)XqBC42'N=aCWk8h"25.A0oC%U*jbPBQ8Pm-c'a^TDq;\h\n2QS)K]nG;--SGfC$f/10,^4F_MV(4?'_pT@*/lMIlGn*n\ZSGmbA<4_0Sl,8D,DK*u,S7:B9ia&!CiDHs\=LEX0sE6/E&&h4iq?o\3K35AU)lNpoB2g,We;O#.!^$3%NUr(4$:A!T^TDlWhWKn+^Bi%D[nNb3+4,QWCK@TeBr8E@WPd&DOJ3Lk<"*Jh"9;u6EJ!t"N4Ju'5ki:L<+$RQhtCHI&GHgl%RqXChNIg^:2j1O._%2]H]emB'N[Z5kL@(6TXe$5i/>AY3Y5Smk]i?SL!@F$?12/S=OF_3&g-MZbOc.FHpKQjpp\'5cH%"@4m8-QHl=oNCuhs,)Dc3#fq<^`Y8!*5aZ"a80D(R`PO5f,eABTm8#usc3[JTkVbV]bj:=J0_s/*<V,MJZt]L0YENOA-(g";28ki(n8i.)Mpi9>9F;aD5kRj_FHCc]\tJ!fCR._m);Y:7g:7#/Za=*/dl<P]KH#DEb0hcST/D8EILpUc%6*KVln3$sPQ0:R::9u-cC94G?16k;-&/jf0?X20Ro2u#k!e[DFaN2<l.M;9+uYE)>5T!o:Ff\pZ>K$mF[?Ak>^lYSj5T>f-oGs)V=4&!l'<sn[2VCRB@DrT8>=cj+g5$MeLGe9#kfUaEQd7a(d'\>aV8*nau=Tm`>,TJ&Q+1PcCJEhohZ-:oCgB(3mcDb#5E=Hk.]]Kp3u;(KC96NQfY^Uj9C5B]EkR@4E)Rd3*b/KEg($Aa;LfZpc0hK(cq*21ZF6F`/[9V&#'V(a263-'o29=P(rG-:tV>WVCTOU@<!P"hjmTuc1XJ6qiAQqY%borb577%r*\)$"=6ZCIPAIu<qdUg]b`H/aG@Vg0M:e&SDK//Vt\=4oNpQi.RNRRV=u.j5FS\"0C[P1?.5Z.6l5Ns52kDC0o'o3TZ_[:;M*9Sn=b8TaE#Ks!jA;to>9TVN"K&"r".]11KX?4XW_bNcU2P^>sRN:.k[[E4>u83g?.9[;Xcc$?61"dIh,J(=>q[RW)dWsiO2M9Fl%F,Lg:2B=L-g!2i-_(;nAI\Mk+]97]-"@Ga^:GDcj/282q-Wq-;(V_c,%^ZSJS/?FC;R.2GhL0:-[eUO?An%nejd6`36G`s.iDOdBF&"6jrc!GU]1])mi.U<RgeL.Vs,Dk^Om=\@V)Dnu&>?[VdY!!a=4(VbSQ^ZQ)GA6MsblUQDnj%P_BohKd=G?OK$qg]",[(*j0Oqq/(bhKLT]LZsH!Npr^]k[-gXkV;D?Pb(mg?u'dh*m6:,4Mr[nido2(dm\hU'Y=q`,:AWA8gF[,s*E1K\2E@'4V=(5B=4eUX3j@8qTrnO3tc(h3F#NOPHhJ*7/(Q;3+VJ(ssSj(R1:Wbo_9"*B<o$;8B+Qlqt`gs1$Wm8'9tQ."%q;Jd+?Y94(XKf,d[>\Od(WS390alXbBQ*C)2(gIn1!W=qOA(PWM8@Xs(c+T!SlI!<$/+#;>Zrr/n_QC/T*Vao.tH&-,$9jSQ2c%qaE34q.=0W,en08R.E_$T\)1eX=H*lpF_SW%<'cZA=21^+,bM$O.AY9WK-<M#0m07n-EnpK,l=7&!<GXBnj#Oh7$ni.rfL!^]f3'e.h?)Ob$J)f`c/C@DDpW(t_g#?fNK/D7fh_0`##fii!GkPXX>3BDj1RQ`XVs?0_#a#&*`S)n^&Uopt/#-jepb*m[q!^BXM_[YYoE)O\!1YfP)<a.KT$Yf0lGQZ`F_cG/W7`scc=?PR:)U6oif9u]IX%07KrH4`H6MWD(etsQN8dVC_8C=_/92#Z?3l)aLsq&.8(i7),?IspN*h6)_eqn+DVJMts*<+cniW4,j"\[F0%Ercj2\=Ld#19-1DYb#?6#u6YrFSA[c1--N5_K!G\F_\.+U7l`M$*G8]1:'(lFH<0RWVuE*.^N?QS]`!/'&mK5BM.C3((#a8R<<(uHaYf';,O2BP;ImVr>@rs+YZI\H~>endstream
+endobj
+29 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1204
+>>
+stream
+Gb!ks95iQS&AII3bg?mXiP$DJV6+4:E08(>DS?\Cb,$V/.?[HRIpXbaP%@cbP["7j!dA7"^=i<oQ9tu^#gi90aT6ir61f^0A[#>?'e!I4$d7(0]0N-U;B!na6)aml>VdhfmWsEkr`KpX/P;n:!l7]2X"<<S\O8$n,hg'4U'K'o",cIh:_7IH#8GT'-30mHKL,8Jm(3PfKY\@+AgrL8%Mt`es5Y(/2auaJX#Tbe>f(ni2_L.7FmtkRR`]PRG[As\h`eYZ@.aZ'G6)sVSg^C$b!#Lh@ogO`ApZ]p[YkqV.:J>h73Tc?_V4$H5g$1$%$5JPW!WbZ_EKSLK$XiB,8)UH5lm7'ot(B]n/L_m6oq[7FL4E9R1pF`)T"'.[$FRgLRj0p5.kk?5VhE4ES/b<[girF%s]<]F)<q"[[buP9LJ(Z:e$Oj#ofY.&OM#B%O=Fa(`;>9*tnKVr95,lqAi>nX=/fQ;"tJ*?g_eTnThZb:&HIN2[$,Bll0p#-h3=?J@-g%P2`10"<d/Z%uhjc]Dr:lN^-ktPL+*SE,iQr]q$lnd11[P1a=,A9FD0*Pu4WbJCdbEf3R&r%SRej=ofYTIMQB/+9aRE_d?,:elP^J2a7'71?k8$;P^Hb?W=1!?%n-]UU\OBZL[7$daZZEs)aGoolF8R10<"EP@_s_6n1QR!jYY_%$2-;eH,@\RPF$>XPRQ3'3DF3<T+RWqT@>BQ0(LS@<7B:A^3a6ViUR"0WY]*ZS62Q=sADX_pR$(Ga#kd[LB@.Za'JCY'lK#n."pf@@JcHkMlC5jm@)rI%,,YOo@b-cVf-7j("*V&q9"as4(*\GJl^bTc^f&a!detoaeaBWBtbDIMG0FSbP@hjiI9)D*/m0I!9bkXZQ:MeCOq7qI;hMl0'rTA3183,@3RY8=^kKG+.dgd;Y22:=a/Ag#Sg`EmWhp$kE!>b^Ih(p-UjM9<+]*HE0Uk6g%YFF&6d4$$K(q:8KbBG!.8.=`gNWf7U@L0PAOO]bb-;hd3sBi<>.Q=G+TUrPk#<:sTh*dgcbhkTuBe^[8ag6B)taO-'Vmjts^T:Dmn=g&^]9J[BGSfUhdK7:<^lg7FtnX!DRl87VG[Wbe4PdlhmYKLNgKN%ftT&_<4#)HW`m^t7M%[.IMKe501KO^r$ne`#$qk7B#DY2e$`@>os;3@m>3jTASs"qR[`2u[1>lS;T?#M1A0?N~>endstream
+endobj
+xref
+0 30
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000513 00000 n 
+0000000708 00000 n 
+0000000912 00000 n 
+0000001117 00000 n 
+0000001313 00000 n 
+0000001517 00000 n 
+0000001722 00000 n 
+0000001931 00000 n 
+0000002140 00000 n 
+0000002349 00000 n 
+0000002555 00000 n 
+0000002761 00000 n 
+0000002971 00000 n 
+0000003181 00000 n 
+0000003391 00000 n 
+0000003711 00000 n 
+0000003937 00000 n 
+0000004175 00000 n 
+0000004413 00000 n 
+0000004640 00000 n 
+0000004886 00000 n 
+0000004956 00000 n 
+0000005278 00000 n 
+0000005346 00000 n 
+0000008043 00000 n 
+trailer
+<<
+/ID 
+[<c87235c39bf58d10ff6c5bac370a5a39><c87235c39bf58d10ff6c5bac370a5a39>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 26 0 R
+/Root 25 0 R
+/Size 30
+>>
+startxref
+9339
+%%EOF
