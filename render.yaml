@@ -3,7 +3,7 @@ services:
     name: stock-control
     runtime: node
     plan: free
-    buildCommand: npm --prefix frontend ci && npm --prefix frontend run build && npm --prefix backend ci
+    buildCommand: npm --prefix frontend ci --include=dev && npm --prefix frontend run build && npm --prefix backend ci --omit=dev
     startCommand: npm --prefix backend start
     healthCheckPath: /
     envVars:
